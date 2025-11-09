@@ -1,0 +1,6 @@
+{
+  "language_filter": ["en", "es", "fr"],
+  "sort_order": "newest",
+  "export_format": "json",
+  "output_directory": "data/"
+}
